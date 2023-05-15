@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T09:27:10.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="ZJ52OFIts3ps8YMOXy0p" version="15.5.1" type="github"><diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">7Zhbk5owFMc/DY/dIUQQHsVLb9tpZ7eX5ygR0gbChLhqP31DCAgaV50pXceuD/HwzwkJ55dzuFhwnG7ecpQnn1iEqeXY0caCE8txgOc58q9UtpUSgEElxJxE2mknPJLfWIu2VlckwkXHUTBGBcm74oJlGV6IjoY4Z+uu25LR7qw5ivGB8LhA9FD9QSKRaBXY9q7jHSZxoqf2Xd0xR4tfMWerTM+XsQxXPSmqT6NdiwRFbN2S4NSCY86YqKx0M8a0DGsdsWrc7Ehvs2SOM3HOgOLb+48+m30IfyJw/3nw3f3qsTf6LE+IrnQorIltBTNrAizfLu3QV7ar7KlqPdXaSp/pixPbOpZPmAsiQ3uP5ph+YQURhGWyayHXibkFw0SkVB4Dada+I0rijg/aF2T08nKCdBOXW/BuSRnjOUXZnYxgKh2WhNIxo4yrVUBb/aSuL1BOhDdHIwcaHnKLY5ZiwbfSRQ9w6m2w3Tte7/ZKoyWtbdLsH6T3Z9ycewdKGprVBdygmduoRWms2kmLlaPt2ycGBnvEAgMxYCIW9EXMNxIbOYoMrCnJNlStq4ndPisYnM4uYGTVW3YFr9n1LLG97IKeIbsGJmJOX8TAkYLYvpFVmIat9BoeQPwfbmeDMxIu+Kf5Vj8tGopjw8q9s8rd41G5mnDOpRWXlvKYHSRmNSao7Yayr5Xbp+wOr41ynfyvZdVMzBteXVl1DGX1XBBzJoQK2TMgBMsvo1AIRHjxgAuxx0K9eMGQM4H0/EFPiQSHL/584hjq5YtiWaOSBM+U27EUiQiX7+7VKgq2KmP3V9LGPV3ooDFtvN74uFfGJ5LGQ3XlISry6hPKkmxw1G9JC8DpkuYb0PjuxWTk4e5biuprfauC0z8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-15T17:55:21.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="OckEPc2umeVqX9X-2Uf1" version="21.3.2" type="github">
+  <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sUIK8oFJBja1LO4V5T6o-1" value="Прихожая" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="80" y="180" width="250" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="sUIK8oFJBja1LO4V5T6o-3" value="Комната" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="80" y="470" width="350" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="sUIK8oFJBja1LO4V5T6o-9" value="Комната" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="570" y="470" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="sUIK8oFJBja1LO4V5T6o-13" value="Прачечная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="560" y="180" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sUIK8oFJBja1LO4V5T6o-14" value="Тех. &lt;br&gt;помещение" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="660" y="180" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sUIK8oFJBja1LO4V5T6o-20" value="Ванная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="320" y="180" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="90" height="95.63" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-91;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="90" height="95.63" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="405" y="265" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-6" value="Гардеробная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="420" y="470" width="160" height="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
