@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T18:01:56.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="SzboPMr9m44wIv-uVKUY" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T18:06:28.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="ENzrA6XRmmB-xlQcWqhH" version="21.3.2" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="sUIK8oFJBja1LO4V5T6o-13" value="Прачечная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="560" y="180" width="110" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="sUIK8oFJBja1LO4V5T6o-14" value="Тех. &lt;br&gt;помещение" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="660" y="180" width="110" height="170" as="geometry" />
+        <mxCell id="sUIK8oFJBja1LO4V5T6o-14" value="Тех. &lt;br&gt;помещение" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="1060" width="110" height="230" as="geometry" />
         </mxCell>
         <mxCell id="sUIK8oFJBja1LO4V5T6o-20" value="Ванная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="250" height="170" as="geometry" />
@@ -48,6 +48,21 @@
         </mxCell>
         <mxCell id="79QRJzX3PPVvXHmyycrC-11" value="Комната" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="80" y="1410" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1530" width="90" height="95.63" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1670" width="90" height="95.63" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-14" value="Ванная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1090" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-15" value="Тех. &lt;br&gt;помещение" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="79QRJzX3PPVvXHmyycrC-16" value="Комната" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1460" width="260" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
