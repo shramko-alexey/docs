@@ -1,68 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T18:06:28.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="ENzrA6XRmmB-xlQcWqhH" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T18:25:54.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="PyNbaPxapfDcgodjPDpY" version="21.3.2" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sUIK8oFJBja1LO4V5T6o-1" value="Прихожая" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="80" y="180" width="250" height="300" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="500" y="450" width="400" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="sUIK8oFJBja1LO4V5T6o-3" value="Комната" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="80" y="470" width="350" height="360" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="80" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="sUIK8oFJBja1LO4V5T6o-9" value="Комната" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="570" y="470" width="260" height="360" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="300" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="sUIK8oFJBja1LO4V5T6o-13" value="Прачечная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="560" y="180" width="110" height="170" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="sUIK8oFJBja1LO4V5T6o-14" value="Тех. &lt;br&gt;помещение" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1060" width="110" height="230" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="10" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="sUIK8oFJBja1LO4V5T6o-20" value="Ванная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="250" height="170" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="610" y="90" width="80" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="90" height="95.63" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-170" width="400" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-91;" vertex="1" parent="1">
-          <mxGeometry x="90" y="190" width="90" height="95.63" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-10" width="80" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="405" y="265" width="80" height="85" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-330" width="140" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-6" value="Гардеробная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="420" y="470" width="160" height="360" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-460" width="400" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-7" value="Master bed room" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1060" width="550" height="360" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-450" width="80" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1060" width="10" height="60" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-460" width="10" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1360" width="10" height="60" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="424.12" y="200" width="65.88" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-10" value="Прихожая" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1500" width="240" height="300" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-900" width="620" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-11" value="Комната" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1410" width="260" height="360" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-1300" width="410" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1530" width="90" height="95.63" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="220" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1670" width="90" height="95.63" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-14" value="Ванная" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1090" width="240" height="170" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_double;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="620" y="555" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-15" value="Тех. &lt;br&gt;помещение" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="670" y="190" width="110" height="170" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_single;rotation=89;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-320" width="100" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="79QRJzX3PPVvXHmyycrC-16" value="Комната" style="verticalLabelPosition=center;html=1;verticalAlign=center;align=center;shape=mxgraph.floorplan.room;fillColor=#000000;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1460" width="260" height="360" as="geometry" />
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_single;rotation=89;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-190" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bathtub2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="300" y="215" width="50" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-900" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="417.06" y="-1010" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Pst9KVz9r-Nv4xf58Q8c-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-1140" width="100" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
